@@ -1,0 +1,162 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 2,
+      "id": 2,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 3,
+      "id": 3,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 4,
+      "id": 4,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    },
+    {
+      "userId": 5,
+      "id": 5,
+      "title": "qui est esse",
+      "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+    }
+  ],
+  "property": [
+    {
+      "id": 1,
+      "propertyType": 1,
+      "villaType": "Luxury Villa",
+      "villaRent": "2.264.000",
+      "villaAddress": "18 New Street Miami",
+      "villaConactDetails": "97542",
+      "bedrooms": 8,
+      "bathrooms": 8,
+      "area": "545m2",
+      "floor": 3,
+      "parking": "6 spots",
+      "villaPoster": "assets/images/property-01.jpg"
+    },
+    {
+      "id": 2,
+      "propertyType": 2,
+      "villaType": "Apartment",
+      "villaRent": "584.500",
+      "villaAddress": "12 Hope Street Portland",
+      "villaConactDetails": "15658",
+      "Bedrooms": 8,
+      "Bathrooms": 8,
+      "Area": "450m2",
+      "Floor": 3,
+      "Parking": "6 spots",
+      "villaPoster": "assets/images/property-02.jpg"
+    },
+    {
+      "id": 3,
+      "propertyType": 3,
+      "villaType": "Penthouse",
+      "villaRent": "925.600",
+      "villaAddress": "26 Mid Street Portland",
+      "villaConactDetails": "36564",
+      "Bedrooms": 8,
+      "Bathrooms": 8,
+      "Area": "987m2",
+      "Floor": 3,
+      "Parking": "6 spots",
+      "villaPoster": "assets/images/property-03.jpg"
+    },
+    {
+      "id": 4,
+      "propertyType": 4,
+      "villaType": "Modern Condo",
+      "villaRent": "584.500",
+      "villaAddress": "12 New Street Miami",
+      "villaConactDetails": "12650",
+      "Bedrooms": 4,
+      "Bathrooms": 3,
+      "Area": "125m2",
+      "Floor": 25,
+      "Parking": "2 spots",
+      "villaPoster": "assets/images/property-04.jpg"
+    },
+    {
+      "id": 5,
+      "propertyType": 2,
+      "villaType": "Apartment",
+      "villaRent": "450.000",
+      "villaAddress": "34 New Street Miami",
+      "villaConactDetails": "42680",
+      "Bedrooms": 4,
+      "Bathrooms": 4,
+      "Area": "180m2",
+      "Floor": 38,
+      "Parking": "2 spots",
+      "villaPoster": "assets/images/property-05.jpg"
+    },
+    {
+      "id": 6,
+      "propertyType": 1,
+      "villaType": "Luxury Villa",
+      "villaRent": "450.000",
+      "villaAddress": "22 Hope Street Portland",
+      "villaConactDetails": "16450",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "165m2",
+      "Floor": 26,
+      "Parking": "3 spots",
+      "villaPoster": "assets/images/property-06.jpg"
+    },
+    {
+      "id": 7,
+      "propertyType": 2,
+      "villaType": "Apartment",
+      "villaRent": "350.000",
+      "villaAddress": "24 Hope Street Portland",
+      "villaConactDetails": "58745",
+      "Bedrooms": 3,
+      "Bathrooms": 2,
+      "Area": "225m2",
+      "Floor": 16,
+      "Parking": "4 spots",
+      "villaPoster": "assets/images/property-01.jpg"
+    },
+    {
+      "id": 8,
+      "propertyType": 3,
+      "villaType": "Penthouse",
+      "villaRent": "650.000",
+      "villaAddress": "28 Mid Street Portland",
+      "villaConactDetails": "16450",
+      "Bedrooms": 8,
+      "Bathrooms": 3,
+      "Area": "850m2",
+      "Floor": 36,
+      "Parking": "5 spots",
+      "villaPoster": "assets/images/property-02.jpg"
+    },
+    {
+      "id": 9,
+      "propertyType": 4,
+      "villaType": "Modern Condo",
+      "villaRent": "120.000",
+      "villaAddress": "22 New Street Miami",
+      "villaConactDetails": "98540",
+      "Bedrooms": 2,
+      "Bathrooms": 1,
+      "Area": "130m2",
+      "Floor": 20,
+      "Parking": "2 spots",
+      "villaPoster": "assets/images/property-03.jpg"
+    }
+  ]
+}
